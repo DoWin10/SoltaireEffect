@@ -1,6 +1,6 @@
 void setup() {
   size(640,480);
-  background(104,104,104);
+  background(0,255,0);
 }
 void draw() {
   stroke(0,0,0);
